@@ -2,10 +2,10 @@
 AXA beacons have been used as a device to collect temperature and humidity data. There have been two central devices to act as intermediary between the AXA beacons and BOSSA platform, which are photons and redbear. 
 
 # Repositories in Use
-* Device_Firmware
-  * Redbear
-  * *Photons are not used anymore*
-* BT_Movement_Analysis
+* *Device_Firmware*
+  * *Redbear*
+  * Photons are not used anymore
+* *BT_Movement_Analysis*
 
 # Archieves
 * FirmwareSergeantAH
